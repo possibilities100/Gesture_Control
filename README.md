@@ -16,3 +16,9 @@ Technologies:
 Usage:
 
 This project can be used for gesture-based navigation, contactless control systems, or even games that require hand gesture inputs.
+
+# Steps to run:
+# 1. use open_cv.py (this file)
+# 2. install pip3
+# 3. install cv2, pyautogui and mediapipe using pip3 (command: pip3 install -name of the module-)
+# 4. run the python file
